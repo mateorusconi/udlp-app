@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  @apply bg-udlp-bg text-udlp-text font-sans antialiased;
+}
